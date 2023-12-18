@@ -15,13 +15,12 @@
         <h1>Page A!</h1>
         <a href="b.jsp">b</a>
         <a href="c.jsp">c</a>
-        
-        <p>December 18th twenty-twenty-three<p>
+    
         
         <p>33178998<p>
         
         <p>Hello git from netbeans <p>
-            
-            
+            <p>kano335226<p>
+            <p>local86554<p>
     </body>
 </html>
